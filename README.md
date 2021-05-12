@@ -1,6 +1,6 @@
 # fifa_analysis
 
-![sample][sample.png]
+![sample](https://github.com/wjriebel/fifa_analysis/blob/main/sample.png?raw=true)
 
 * Create a pair of charts that compare the potential of a club's players to their overall ability (Overall column). Then sort them from best to worst.
 
